@@ -1,0 +1,22 @@
+{
+  "name": "@time50/vue-cli-plugin-test",
+  "version": "0.0.1",
+  "description": "vue-cli-plugin 测试项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetime50/vue-cli-plugin-test.git"
+  },
+  "keywords": [
+    "vue-cli-plugin"
+  ],
+  "author": "thetime50",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thetime50/vue-cli-plugin-test/issues"
+  },
+  "homepage": "https://github.com/thetime50/vue-cli-plugin-test#readme"
+}
